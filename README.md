@@ -33,6 +33,4 @@ To continually architect robust defensive infrastructure, balance defensive depl
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/> <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
 
 ## 📁 Projects
-* - [**Project Name 1: Advanced CTI Hunting Dashboard**]([Link to Repo]) - A brief description of the objective, the skills you learned, and the tools you used.
-* - [**Project Name 2: Vibe Coded Log Parser**]([Link to Repo]) - A brief description of the objective, the skills you learned, and the tools you used.
-* - [**Project Name 3: Active Directory SOC Lab**]([Link to Repo]) - A brief description of the objective, the skills you learned, and the tools you used.
+* - [**Project Name 1: BOT-DEFENDER SAAS APP**][(https://github.com/Mortyfx08/bot-defender-ts)] - A modern, production-ready Shopify embedded app for bot protection, built with Next.js, Polaris, App Bridge, Express, MongoDB, and Redis.
