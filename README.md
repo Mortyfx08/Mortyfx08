@@ -1,7 +1,7 @@
 # Hello, I'm Morty 👋
 
 <div id="badges">
-  <a href="[[Your LinkedIn URL]](https://www.linkedin.com/in/mourad-lmselah-25a26b2b7/)">
+  <a href="https://www.linkedin.com/in/mourad-lmselah-25a26b2b7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
