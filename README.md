@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Morty 👋
 
 <div id="badges">
   <a href="[Your LinkedIn URL]">
