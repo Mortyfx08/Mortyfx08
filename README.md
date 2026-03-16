@@ -49,6 +49,7 @@ In the realm of Malware and Email Analysis, my focus is on safely dissecting mal
 
 ### Vibe Coding & Automation
 I believe that the most effective defenders are also builders. To bridge gaps in traditional tooling and eliminate repetitive SOC tasks, I heavily engage in vibe coding—rapidly prototyping and deploying custom security applications. Whether it is writing Python scripts to parse complex forensic artifacts, utilizing Go for high-performance network monitoring, or building full-fledged APIs and web dashboards with FastAPI, I continuously engineer automated solutions that empower the defense team and streamline security operations.
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 
 ### Infrastructure & Virtualisation
