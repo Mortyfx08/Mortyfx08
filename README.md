@@ -59,3 +59,4 @@ A robust defense begins at the architectural level. I specialize in designing, d
 
 ## 📁 Projects
 * [**BOT-DEFENDER SAAS APP**](https://github.com/Mortyfx08/bot-defender-ts) - A modern, production-ready Shopify embedded app for bot protection, built with Next.js, Polaris, App Bridge, Express, MongoDB, and Redis.
+* [**IntranetAdmin**](https://github.com/Mortyfx08/IntranetAdmin) - IntranetAdmin is a professional, secure-by-design administration portal for local intranets. It provides real-time network visibility, device control, and an automated agent deployment pipeline through a high-end "Tier 1" SaaS user experience.
