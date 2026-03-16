@@ -33,4 +33,4 @@ To continually architect robust defensive infrastructure, balance defensive depl
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/> <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
 
 ## 📁 Projects
-* - [** BOT-DEFENDER SAAS APP :**] (https://github.com/Mortyfx08/bot-defender-ts) - A modern, production-ready Shopify embedded app for bot protection, built with Next.js, Polaris, App Bridge, Express, MongoDB, and Redis.
+* [**BOT-DEFENDER SAAS APP**](https://github.com/Mortyfx08/bot-defender-ts) - A modern, production-ready Shopify embedded app for bot protection, built with Next.js, Polaris, App Bridge, Express, MongoDB, and Redis.
